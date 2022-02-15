@@ -35,12 +35,3 @@ if ( scelta === sceltaDispari && somma % 3 === 0){
 } else {
     console.log( "ha vinto il computer")
 }
-
-
-
-
-/*
-else if ( scelta === sceltaDispari && somma % 3 === 0){
-    console.log( "hai vinto" )
-}
-*/
